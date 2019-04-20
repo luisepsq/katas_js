@@ -1,5 +1,5 @@
 import digital_root from './solution'
-  describe('digital_root :', () => {
+  xdescribe('digital_root :', () => {
     it.each`
       digits    | result
       ${16}      | ${7}
