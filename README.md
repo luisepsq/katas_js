@@ -1,5 +1,5 @@
 # katas_js
-Javascript katas tested with jest
+this repository is a compilation of Javascript katas tested with jest
 This is a Kata compilation, every folder contains: 
   * Kata decription ('.md' file).
   * solution.js file where you have to implement your solution.
