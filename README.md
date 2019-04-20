@@ -6,4 +6,4 @@
   * solution.spec.js a js file implemented with jest to test your solution.
   
   
-  Feel free to collaborate by PR a new kata or your solution.
+  Feel free to collaborate by PR with a new kata or your solution to the provided.
