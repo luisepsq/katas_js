@@ -1,5 +1,5 @@
 #**katas_js**
-   **katas_js** is a compilation of Javascript katas tested with Jest, every Kata folder contains: 
+   katas_js is a compilation of Javascript katas tested with Jest, every Kata folder contains: 
   * Kata decription ('.md' file).
   * solution.js file where you have to implement your solution.
   * solution.md markdown file with my solution. 
