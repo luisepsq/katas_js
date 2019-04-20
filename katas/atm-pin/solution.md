@@ -1,5 +1,14 @@
 # atm pin
-My solution 
+My solution:
+
+Using regex
+```javascript
+const validatePIN =(pin)=>  /^(\d{4}|\d{6})$/.test(pin);
+module.exports = validatePIN;
+```
+
+
+Without regex
 ```javascript
 const validatePIN =(pin)=> {
     const noNaNArray=(number)=>{

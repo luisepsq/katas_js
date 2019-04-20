@@ -1,6 +1,6 @@
 import validatePIN from './solution'
 
-xdescribe('validatePIN', ()=> {
+describe('validatePIN', ()=> {
     it('should return False for pins with length other than 4 or 6',()=> {
         expect(validatePIN('1')).toBe(false);
         expect(validatePIN('12')).toBe(false);
