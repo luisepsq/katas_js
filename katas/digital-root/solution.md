@@ -1,6 +1,6 @@
 # Digital root solution
 
-```
+```javascript
 const digital_root=(n)=> {
     const digits= n.toString().split('').map(Number);
     const sum =(acum,a)=> acum +a;
